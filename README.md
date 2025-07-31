@@ -58,10 +58,10 @@ You can explore the full interactive Tableau dashboard here:
 🔗 [Prototype Real-Time Dashboard – Tableau Public](https://public.tableau.com/views/PrototypeReal-TimeDashboard/PrototypeReal-TimeDashboard)
 
 ## 🧑‍🤝‍🧑 Team Members
-- Mutasim Billah (AIU21102122)
-- Kjwae Thazin Aung (AIU22102148)
-- Ryotaro Okamura (AIU24034001)
-- Mustafe Abdirahman Mohamed (AIU21102133)
+- Mutasim Billah 
+- Kjwae Thazin Aung 
+- Ryotaro Okamura 
+- Mustafe Abdirahman Mohamed 
 
 ## 📅 Submission Details
 - **Course:** CCS3133 – Information Visualization  
